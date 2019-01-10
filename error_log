@@ -1,0 +1,210 @@
+[08-Aug-2018 10:25:18 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:25:18 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:25:21 Europe/Paris] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (setFrom)  in /home/biarccbj/public_html/PHPMailer/PHPMailer.php:1133
+Stack trace:
+#0 /home/biarccbj/public_html/contact.php(25): PHPMailer\PHPMailer\PHPMailer->setFrom('', '')
+#1 {main}
+  thrown in /home/biarccbj/public_html/PHPMailer/PHPMailer.php on line 1133
+[08-Aug-2018 10:25:23 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:25:23 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:25:25 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:25:25 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:25:35 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:25:44 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:25:44 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:25:46 Europe/Paris] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (setFrom)  in /home/biarccbj/public_html/PHPMailer/PHPMailer.php:1133
+Stack trace:
+#0 /home/biarccbj/public_html/contact.php(25): PHPMailer\PHPMailer\PHPMailer->setFrom('', '')
+#1 {main}
+  thrown in /home/biarccbj/public_html/PHPMailer/PHPMailer.php on line 1133
+[08-Aug-2018 10:25:49 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:25:49 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:32:22 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:32:22 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:32:26 Europe/Paris] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (punyEncode) root@localhost in /home/biarccbj/public_html/PHPMailer/PHPMailer.php:1383
+Stack trace:
+#0 /home/biarccbj/public_html/PHPMailer/PHPMailer.php(1306): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/biarccbj/public_html/contact.php(80): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/biarccbj/public_html/PHPMailer/PHPMailer.php on line 1383
+[08-Aug-2018 10:32:27 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:32:27 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:32:29 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:32:29 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:32:36 Europe/Paris] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (punyEncode) root@localhost in /home/biarccbj/public_html/PHPMailer/PHPMailer.php:1383
+Stack trace:
+#0 /home/biarccbj/public_html/PHPMailer/PHPMailer.php(1306): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/biarccbj/public_html/contact.php(80): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/biarccbj/public_html/PHPMailer/PHPMailer.php on line 1383
+[08-Aug-2018 10:32:54 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:32:54 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:33:04 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:33:30 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:33:46 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:36:34 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:37:03 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:37:03 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:37:05 Europe/Paris] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (setFrom)  in /home/biarccbj/public_html/PHPMailer/PHPMailer.php:1133
+Stack trace:
+#0 /home/biarccbj/public_html/contact.php(25): PHPMailer\PHPMailer\PHPMailer->setFrom('', '')
+#1 {main}
+  thrown in /home/biarccbj/public_html/PHPMailer/PHPMailer.php on line 1133
+[08-Aug-2018 10:37:08 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:37:08 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:38:07 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:38:07 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:38:09 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:38:09 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:38:12 Europe/Paris] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (setFrom)  in /home/biarccbj/public_html/PHPMailer/PHPMailer.php:1133
+Stack trace:
+#0 /home/biarccbj/public_html/contact.php(25): PHPMailer\PHPMailer\PHPMailer->setFrom('', '')
+#1 {main}
+  thrown in /home/biarccbj/public_html/PHPMailer/PHPMailer.php on line 1133
+[08-Aug-2018 10:38:13 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:38:13 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:45:23 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:45:23 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:50:46 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:50:46 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:51:10 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:51:10 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:51:49 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:51:49 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:52:56 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:52:56 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:56:38 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:56:38 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:58:23 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:58:23 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 10:59:32 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 10:59:32 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:17:53 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:17:53 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:25:52 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:25:52 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:26:14 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:26:14 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:26:24 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:26:24 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:26:29 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:26:29 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:27:22 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:27:22 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:27:32 Europe/Paris] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Message body empty in /home/biarccbj/public_html/PHPMailer/PHPMailer.php:1398
+Stack trace:
+#0 /home/biarccbj/public_html/PHPMailer/PHPMailer.php(1306): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/biarccbj/public_html/contact.php(80): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/biarccbj/public_html/PHPMailer/PHPMailer.php on line 1398
+[08-Aug-2018 11:27:34 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:27:34 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:40:53 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:40:53 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:40:55 Europe/Paris] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (setFrom)  in /home/biarccbj/public_html/PHPMailer/PHPMailer.php:1133
+Stack trace:
+#0 /home/biarccbj/public_html/contact.php(25): PHPMailer\PHPMailer\PHPMailer->setFrom('', '')
+#1 {main}
+  thrown in /home/biarccbj/public_html/PHPMailer/PHPMailer.php on line 1133
+[08-Aug-2018 11:40:57 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:40:57 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:41:16 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:41:16 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:41:19 Europe/Paris] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: Invalid address:  (setFrom)  in /home/biarccbj/public_html/PHPMailer/PHPMailer.php:1133
+Stack trace:
+#0 /home/biarccbj/public_html/contact.php(25): PHPMailer\PHPMailer\PHPMailer->setFrom('', '')
+#1 {main}
+  thrown in /home/biarccbj/public_html/PHPMailer/PHPMailer.php on line 1133
+[08-Aug-2018 11:41:20 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:41:20 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:42:34 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:42:34 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:43:31 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:43:31 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:56:36 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:56:36 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:58:12 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:58:12 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:58:14 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:58:14 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 11:58:14 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 11:58:14 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 12:23:16 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 120
+[08-Aug-2018 12:23:16 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 123
+[08-Aug-2018 12:56:55 Europe/Paris] PHP Warning:  require(includes/functions.php): failed to open stream: No such file or directory in /home/biarccbj/public_html/contact.php on line 2
+[08-Aug-2018 12:56:55 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'includes/functions.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/biarccbj/public_html/contact.php on line 2
+[08-Aug-2018 12:57:02 Europe/Paris] PHP Warning:  require(includes/functions.php): failed to open stream: No such file or directory in /home/biarccbj/public_html/contact.php on line 2
+[08-Aug-2018 12:57:02 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'includes/functions.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/biarccbj/public_html/contact.php on line 2
+[08-Aug-2018 12:57:12 Europe/Paris] PHP Warning:  require(includes/functions.php): failed to open stream: No such file or directory in /home/biarccbj/public_html/contact.php on line 2
+[08-Aug-2018 12:57:12 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'includes/functions.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/biarccbj/public_html/contact.php on line 2
+[08-Aug-2018 12:57:14 Europe/Paris] PHP Warning:  require(includes/functions.php): failed to open stream: No such file or directory in /home/biarccbj/public_html/contact.php on line 2
+[08-Aug-2018 12:57:14 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'includes/functions.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/biarccbj/public_html/contact.php on line 2
+[08-Aug-2018 12:58:21 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 141
+[08-Aug-2018 12:58:21 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 144
+[08-Aug-2018 12:58:42 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 144
+[08-Aug-2018 12:59:44 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 144
+[08-Aug-2018 13:05:24 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 121
+[08-Aug-2018 13:05:24 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 124
+[08-Aug-2018 13:05:36 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 124
+[08-Aug-2018 14:13:53 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 119
+[08-Aug-2018 14:13:53 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 122
+[08-Aug-2018 14:14:11 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 122
+[08-Aug-2018 14:14:57 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 119
+[08-Aug-2018 14:14:57 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 122
+[08-Aug-2018 14:15:06 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 122
+[08-Aug-2018 14:16:26 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 119
+[08-Aug-2018 14:16:26 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 122
+[08-Aug-2018 14:17:17 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 122
+[09-Aug-2018 10:57:35 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 119
+[09-Aug-2018 10:57:35 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 122
+[09-Aug-2018 10:57:46 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 122
+[09-Aug-2018 10:59:04 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 99
+[09-Aug-2018 10:59:04 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 102
+[09-Aug-2018 10:59:13 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 102
+[09-Aug-2018 11:00:06 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 99
+[09-Aug-2018 11:00:06 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 102
+[09-Aug-2018 11:00:14 Europe/Paris] PHP Notice:  Undefined variable: mail in /home/biarccbj/public_html/contact.php on line 59
+[09-Aug-2018 11:00:14 Europe/Paris] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/biarccbj/public_html/contact.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/biarccbj/public_html/contact.php on line 59
+[09-Aug-2018 11:00:18 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 99
+[09-Aug-2018 11:00:18 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 102
+[09-Aug-2018 11:03:00 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 99
+[09-Aug-2018 11:03:00 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 102
+[09-Aug-2018 11:08:30 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 121
+[09-Aug-2018 11:08:30 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 124
+[09-Aug-2018 11:08:39 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 124
+[09-Aug-2018 11:12:06 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in /home/biarccbj/public_html/contact.php on line 25
+[09-Aug-2018 11:12:11 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in /home/biarccbj/public_html/contact.php on line 25
+[09-Aug-2018 11:12:18 Europe/Paris] PHP Parse error:  syntax error, unexpected ')' in /home/biarccbj/public_html/contact.php on line 25
+[09-Aug-2018 11:12:54 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 121
+[09-Aug-2018 11:12:54 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 124
+[09-Aug-2018 11:13:03 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 124
+[09-Aug-2018 11:14:23 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 121
+[09-Aug-2018 11:14:23 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 124
+[09-Aug-2018 11:14:30 Europe/Paris] PHP Fatal error:  Uncaught PHPMailer\PHPMailer\Exception: You must provide at least one recipient email address. in /home/biarccbj/public_html/PHPMailer/PHPMailer.php:1368
+Stack trace:
+#0 /home/biarccbj/public_html/PHPMailer/PHPMailer.php(1306): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 /home/biarccbj/public_html/contact.php(81): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+  thrown in /home/biarccbj/public_html/PHPMailer/PHPMailer.php on line 1368
+[09-Aug-2018 11:15:35 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 121
+[09-Aug-2018 11:15:35 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 124
+[09-Aug-2018 11:15:45 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 121
+[09-Aug-2018 11:15:45 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 124
+[09-Aug-2018 11:15:54 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 124
+[09-Aug-2018 11:16:58 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 121
+[09-Aug-2018 11:16:58 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 124
+[09-Aug-2018 12:23:40 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 117
+[09-Aug-2018 12:23:40 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 120
+[12-Aug-2018 10:43:59 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 117
+[12-Aug-2018 10:43:59 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 120
+[12-Aug-2018 13:33:26 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 117
+[12-Aug-2018 13:33:26 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 120
+[22-Aug-2018 12:32:52 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 117
+[22-Aug-2018 12:32:52 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 120
+[08-Sep-2018 10:31:42 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 117
+[08-Sep-2018 10:31:42 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 120
+[08-Sep-2018 15:27:06 Europe/Paris] PHP Notice:  Undefined variable: resultok in /home/biarccbj/public_html/contact.php on line 117
+[08-Sep-2018 15:27:06 Europe/Paris] PHP Notice:  Undefined variable: resultko in /home/biarccbj/public_html/contact.php on line 120

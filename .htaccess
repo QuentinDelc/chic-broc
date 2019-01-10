@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+# Custom php
+  RewriteCond %{REQUEST_URI} !/sites/custom_php/[^/]*\.php$
+</IfModule>
